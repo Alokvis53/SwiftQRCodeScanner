@@ -75,9 +75,13 @@ func qrScannerDidCancel(_ controller: UIViewController) {
 }
 ```
 
-## Author
+## Forked from
 
-Vinod, vinod.jagtap@hotmail.com
+Vinod, https://github.com/vinodiOS/SwiftQRScanner
+
+## Tweeked/Enhancement By
+
+Alok V.
 
 ## License
 
