@@ -29,7 +29,7 @@ SwiftQRScanner is available through [CocoaPods](http://cocoapods.org). To instal
 it, simply add the following line to your Podfile:
 
 ```ruby
-pod 'SwiftQRScanner', :git => ‘https://github.com/vinodiOS/SwiftQRScanner’
+pod 'SwiftQRScanner', :git => ‘https://github.com/Alokvis53/SwiftQRCodeScanner’
 ```
 ### Manual Installation
 Download the latest version ,then unzip & drag-drop the Classes  folder inside your iOS project. You can do that directly within Xcode,
